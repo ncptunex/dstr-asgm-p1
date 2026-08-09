@@ -1,4 +1,4 @@
-<img width="425" height="322" alt="Picture1" src="https://github.com/user-attachments/assets/2ba2ecad-acd8-4795-8651-c8fab2e343b1" /><img width="664" height="503" alt="image" src="https://github.com/user-attachments/assets/1f0aec6d-38cb-4f55-8df4-a43dbd14626b" /><img width="664" height="503" alt="image" src="https://github.com/user-attachments/assets/d24820a9-9f0b-4ae7-b202-fce9523c99f4" /># COMPARATIVE ANALYSIS OF ARRAYS AND SINGLY LINKED LISTS FOR SORTING AND SEARCHING IN URBAN CARBON EMISSION DATA
+# COMPARATIVE ANALYSIS OF ARRAYS AND SINGLY LINKED LISTS FOR SORTING AND SEARCHING IN URBAN CARBON EMISSION DATA
 
 ## I was responsible for Task 7 (Searching).
 
